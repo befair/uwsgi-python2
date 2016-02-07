@@ -1,7 +1,5 @@
 FROM python:2.7.7
 
-MAINTAINER Antonio Esposito "kobe@befair.it"
-
 ENV DEBIAN_FRONTEND         noninteractive
 
 ENV PYTHONUNBUFFERED        1
